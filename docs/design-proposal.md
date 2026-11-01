@@ -66,7 +66,3 @@ Use the drawing guide in `diagram-instructions.md` to understand the requirement
 ## 3.1 GitHub repository
 
 https://github.com/andersonyaen13/baseball-practice-tracker
-
-## Review before submission
-
-This is a proposed plan to review and understand before using it. Confirm that the fields, summaries, MVP scope, and class responsibilities match what you want to implement and can explain. Do not submit until the diagram and repository link have been added.
