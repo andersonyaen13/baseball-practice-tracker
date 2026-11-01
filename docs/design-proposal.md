@@ -59,9 +59,9 @@ The Do items form one complete workflow: record practice, keep it between runs, 
 
 ## 2.4 System diagram
 
-**Not completed.** The student must draw the diagram in a diagramming tool, export a PNG/JPG, and keep the editable source. Insert the finished image here before submitting.
+![Baseball Practice Tracker system diagram](BaseballPracticeTracker.png)
 
-Use the drawing guide in `diagram-instructions.md` to understand the requirements. The final diagram and its design must be your own work.
+[Editable diagram source](BaseballPracticeTracker.drawio.xml)
 
 ## 3.1 GitHub repository
 
